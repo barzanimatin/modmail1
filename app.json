@@ -4,7 +4,7 @@
   "repository": "https://github.com/kyb3r/modmail",
   "env": {
     "TOKEN": {
-      "description": "M0PBS0fMDckbznujPQh_DSpQQxutDJUA",
+      "description": "NTUwOTE5NTkxNzYxODA1MzUz.D2KtSg.p4yCPF4hVy_iMDAQMV3mAMzdPms",
       "required": true
     },
     "GUILD_ID": {
@@ -12,7 +12,7 @@
       "required": true
     },
     "OWNERS": {
-      "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval and update).",
+      "description": "123057713482694658,227915711110971393",
       "required": true
     },
     "GITHUB_ACCESS_TOKEN": {
