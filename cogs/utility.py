@@ -218,7 +218,7 @@ class Utility:
                         value=f'[`{self.bot.version}`]'
                         '(https://modmail.tk/changelog)')
         embed.add_field(name='Author',
-                        value='[`kyb3r`](https://github.com/kyb3r)')
+                        value='[`Reaper`](https://github.com/biswajit9123)')
 
         footer = f'Bot ID: {self.bot.user.id}'
 
@@ -230,7 +230,7 @@ class Utility:
                 footer = 'You are up to date with the latest version.'
 
         embed.add_field(name='GitHub',
-                        value='https://github.com/kyb3r/modmail',
+                        value='https://github.com/biswajit9123/modmail',
                         inline=False)
 
         embed.set_footer(text=footer)
