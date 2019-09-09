@@ -24,8 +24,6 @@ class Plugins:
 
     These addons could have a range of features from moderation to simply
     making your life as a moderator easier!
-    Learn how to create a plugin yourself here:
-    https://github.com/kyb3r/modmail/wiki/Plugins
     """
     def __init__(self, bot: Bot):
         self.bot = bot
