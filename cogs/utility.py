@@ -239,7 +239,7 @@ class Utility:
     @debug.command()
     @commands.is_owner()
     @trigger_typing        
-    async def say(ctx, *, msg = None):
+    async def say(self, ctx):
     await client.delete_message(ctx.message)
     if ctx.message.author.bot:
       return
