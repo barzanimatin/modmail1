@@ -235,17 +235,6 @@ class Utility:
 
         embed.set_footer(text=footer)
         await ctx.send(embed=embed)
-
-    @debug.command()
-    @commands.is_owner()
-    @trigger_typing        
-    async def say(self, ctx):
-    await client.delete_message(ctx.message)
-    if ctx.message.author.bot:
-      return
-    else:
-      if not msg: await client.say("Please specify a message to send")
-      else: await client.say(msg)
                           
     @commands.group()
     @commands.is_owner()
