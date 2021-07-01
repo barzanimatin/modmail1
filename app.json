@@ -4,7 +4,7 @@
   "repository": "https://github.com/kyb3r/modmail",
   "env": {
     "TOKEN": {
-      "description": "NTUwOTE5NTkxNzYxODA1MzUz.D2KtSg.p4yCPF4hVy_iMDAQMV3mAMzdPms",
+      "description": "ODU4NjYzMDg5MjQ2MzA2MzA1.YNhaUQ.VWxDze502qQfl9XfYmprOIM3MmA",
       "required": true
     },
     "GUILD_ID": {
